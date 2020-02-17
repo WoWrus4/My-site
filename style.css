@@ -6,7 +6,7 @@ body {
   line-height: 32px;
   color: #f2f2f2;
   background-color: #080208;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("fon/fon.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -34,16 +34,6 @@ body {
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
-}
-
-.header-email {
-  padding-left: 30px;
-  background-image: url("img/icon-email.svg");
-}
-
-.header-phone {
-  padding-left: 25px;
-  background-image: url("img/icon-phone.svg");
 }
 
 .hero-image {
@@ -178,12 +168,6 @@ body {
   background-position: left;
 }
 
-.footer-email {
-  padding-left: 30px;
-  background-image: url("img/icon-email.svg");
-}
-
-.footer-phone {
-  padding-left: 25px;
-  background-image: url("img/icon-phone.svg");
+.pro {
+  font-size: 60px;
 }
